@@ -25,6 +25,10 @@ Open-Anti-Browser 是一个本地桌面端指纹浏览器管理器
 - 安装包发布页: [Releases](https://github.com/Wtcity22/Open-Anti-Browser/releases)
 - 源码仓库: [Wtcity22/Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser)
 
+## 联系我
+- email: wtcity22@gmail.com
+- tg: @NetOriginDev
+
 ## 交流群
 
 欢迎加入 QQ 交流群，一起交流使用经验、反馈问题、分享自动化玩法

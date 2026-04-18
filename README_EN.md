@@ -25,6 +25,10 @@ The interface follows an iOS-inspired style and supports light and dark mode swi
 - Installer release page: [Releases](https://github.com/Wtcity22/Open-Anti-Browser/releases)
 - Source repository: [Wtcity22/Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser)
 
+## Contact Me
+- email: wtcity22@gmail.com
+- tg: @NetOriginDev
+
 ## Community group
 
 You are welcome to join the QQ group to share usage tips, report issues, and exchange ideas with other users
