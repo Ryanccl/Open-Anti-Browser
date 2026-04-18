@@ -1,0 +1,46 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+
+# Local editor / tooling
+.idea/
+.vscode/
+.claude/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/dist/
+
+# Python build artifacts
+build/
+dist/
+*.spec.bak
+
+# Local runtime data
+data/
+browser-data/
+logs/
+runtime/
+downloads/
+engines/
+extensions/
+tools/inno-setup/
+tools/innosetup-*.exe
+
+# Local helper files
+.web-server.pid
+debug-exe.err.txt
+debug-exe.out.txt
+Open-Anti-Browser-Debug.spec
+
+# Screenshots and local notes
+ui-*.png
+
+# OS files
+Thumbs.db
+Desktop.ini

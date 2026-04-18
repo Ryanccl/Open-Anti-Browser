@@ -1,0 +1,22 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="30" fill="#F4F7FB"/>
+  <circle cx="34" cy="34" r="18" fill="url(#firefoxCore)"/>
+  <path d="M49.6571 18C42.9436 18.5706 37.2287 22.9131 34.6868 29.1508C33.5745 31.8816 33.1464 34.8733 33.4427 37.8081C33.6795 40.1544 34.5491 42.5802 36.3947 44.0606C39.6183 46.6471 44.9057 45.9854 48.2837 43.4026C52.6625 40.0557 54.5207 33.9127 52.9113 28.6482C52.0317 25.7707 50.4438 22.9774 49.6571 18Z" fill="url(#firefoxTail)"/>
+  <path d="M28.3825 10C31.6327 12.7377 32.5681 17.0541 31.1367 20.9816C34.6656 19.1628 39.0603 18.9113 42.9029 20.2458C36.648 20.6022 30.7611 24.4584 27.6524 30.0161C25.1928 34.4149 24.7883 40.1678 27.4874 44.4094C29.9987 48.3559 34.7017 50.9034 39.3857 50.7759C32.9072 54.768 24.0746 53.7029 18.6995 48.3324C12.4857 42.1234 11.8916 31.996 16.7914 24.9992C17.7611 23.6147 18.934 22.365 20.2668 21.3346C19.8247 18.1018 20.6468 14.7976 22.8075 12.2597C24.2558 10.5581 26.1627 9.27628 28.3825 10Z" fill="url(#firefoxFox)"/>
+  <circle cx="35.5" cy="35.5" r="6.5" fill="#FFF8F1"/>
+  <defs>
+    <linearGradient id="firefoxCore" x1="22" y1="18" x2="48" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7B5CFF"/>
+      <stop offset="1" stop-color="#2D9CFF"/>
+    </linearGradient>
+    <linearGradient id="firefoxTail" x1="38" y1="18" x2="53" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB300"/>
+      <stop offset="1" stop-color="#FF5A1F"/>
+    </linearGradient>
+    <linearGradient id="firefoxFox" x1="17" y1="12" x2="40" y2="53" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD45C"/>
+      <stop offset="0.55" stop-color="#FF8A2A"/>
+      <stop offset="1" stop-color="#FF4B3E"/>
+    </linearGradient>
+  </defs>
+</svg>
