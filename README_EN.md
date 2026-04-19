@@ -151,7 +151,8 @@ After Firefox starts, use the returned port with RuyiPage
 
 - The source code is publicly available
 - To reduce commercial abuse, this README does not include ready-to-run build steps
-- If you want to study the build flow, please review the source tree and build scripts on your own
+- The public repository does not include installer packaging scripts or ready-made build configuration
+- If you want to study the build flow, please work it out from the source tree on your own
 
 ## Notes
 

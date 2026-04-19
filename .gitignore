@@ -20,6 +20,10 @@ frontend/dist/
 build/
 dist/
 *.spec.bak
+*.spec
+installer/
+build_installer.ps1
+build_portable.ps1
 
 # Local runtime data
 data/
